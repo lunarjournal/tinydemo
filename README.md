@@ -8,5 +8,4 @@ It has the following features:
 * Support for XM tracker format
 * SSTRIP support
 
-Author: Dylan Muller
 **Project Completion Date: 21/06/2019**
