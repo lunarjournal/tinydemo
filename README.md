@@ -9,3 +9,4 @@ It has the following features:
 * SSTRIP support
 
 Author: Dylan Muller
+**Project Completion Date: 21/06/2019**
