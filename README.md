@@ -8,4 +8,3 @@ It has the following features:
 * Support for XM tracker format
 * SSTRIP support
 
-**Project Completion Date: 21/06/2019**
